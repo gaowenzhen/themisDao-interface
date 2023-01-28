@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2920],{12920:function(e,n,r){r.r(n);var u=r(52322),c=r(5632),s=r(93304),t=r(38527),l=function(){var e=(0,c.useRouter)().query.collectionAddress,n=(0,s.YD)(e);return(0,u.jsx)(u.Fragment,{children:(0,u.jsx)(t.Z,{collection:n})})};n.default=l}}]);
+//# sourceMappingURL=2920.3443202319bdc886.js.map
